@@ -1,3 +1,10 @@
+## NOTICE: This project is now obsolete
+
+Consider using this [FluentEmail.Markdown](https://github.com/lyphtec/FluentEmail.Markdown) instead
+
+---
+
+
 Playing around with a fluent email class in c#
 
 Example usage from:
